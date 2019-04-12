@@ -1,0 +1,19 @@
+{
+	"hosting": {
+		"public": "public",
+		"ignore": [
+			"firebase.json",
+			"**/.*",
+			"**/node_modules/**"
+		],
+		"redirects": [{
+			"source": "/privacy-policy",
+			"destination": "https://www.oya.sg/privacy-policy",
+			"type": 302
+		}, {
+			"source": "/terms-and-conditions",
+			"destination": "https://www.oya.sg/terms-conditions",
+			"type": 302
+		}]
+	}
+}
