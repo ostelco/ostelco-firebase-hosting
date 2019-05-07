@@ -1,5 +1,5 @@
 # PI Redirector
 Ostelco redirect service
 
-# PI Development
+# PI Ostelco Dev
 Rewrite rules for firebase dynamic links
