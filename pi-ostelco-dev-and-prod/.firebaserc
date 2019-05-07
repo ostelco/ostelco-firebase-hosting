@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "pi-ostelco-dev",
+    "prod": "pi-ostelco-prod"
+  }
+}
