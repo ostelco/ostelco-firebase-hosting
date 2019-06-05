@@ -22,6 +22,22 @@
 			"source": "/fully-digital",
 			"destination": "https://redotter.freshdesk.com/support/solutions/articles/75000016846-what-is-oya-",
 			"type": 301
+		}, {
+			"source": "/minimum-age",
+			"destination": "https://redotter.freshdesk.com/solution/articles/75000017098-what-is-the-minimum-age-requirement-for-signing-up-",
+			"type": 301
+		}, {
+			"source": "/location-required",
+			"destination": "https://redotter.freshdesk.com/solution/articles/75000017100-why-does-my-location-need-to-accessed-during-registration-",
+			"type": 301
+		}, {
+			"source": "/about-membership",
+			"destination": "https://redotter.freshdesk.com/solution/articles/75000017139-why-become-an-oya-member-",
+			"type": 301
+		}, {
+			"source": "/current-pricing",
+			"destination": "https://redotter.freshdesk.com/solution/articles/75000017142-what-are-the-price-plans-",
+			"type": 301
 		}]
 	}
 }
