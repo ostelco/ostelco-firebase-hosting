@@ -16,7 +16,7 @@
 			"type": 301
 		}, {
 			"source": "/esim-instructions-video",
-			"destination": "https://firebasestorage.googleapis.com/v0/b/pi-redirector.appspot.com/o/public%2FScreen%20Recording.mov?alt=media&token=84125f13-1e99-4e58-904e-c26d35083ee9",
+			"destination": "https://firebasestorage.googleapis.com/v0/b/pi-redirector.appspot.com/o/public%2FOYA%20instructions%20eSIM%20v2.mp4?alt=media&token=d7d03a19-d581-446b-a222-48c78d034648",
 			"type": 301
 		}, {
 			"source": "/fully-digital",
