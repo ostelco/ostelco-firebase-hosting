@@ -16,27 +16,27 @@
 			"type": 301
 		}, {
 			"source": "/esim-instructions-video",
-			"destination": "https://firebasestorage.googleapis.com/v0/b/pi-redirector.appspot.com/o/public%2FOYA%20instructions%20eSIM%20v2.mp4?alt=media&token=d7d03a19-d581-446b-a222-48c78d034648",
+			"destination": "https://firebasestorage.googleapis.com/v0/b/pi-redirector.appspot.com/o/public%2FeSim%20OYA%20Instructional%20Video_v3.mp4?alt=media&token=4db04106-d100-44b6-9aba-501de46dd060",
 			"type": 301
 		}, {
 			"source": "/fully-digital",
-			"destination": "https://redotter.freshdesk.com/support/solutions/articles/75000016846-what-is-oya-",
+			"destination": "https://support.oya.sg/support/solutions/articles/75000016846-what-is-oya-",
 			"type": 301
 		}, {
 			"source": "/minimum-age",
-			"destination": "https://redotter.freshdesk.com/solution/articles/75000017098-what-is-the-minimum-age-requirement-for-signing-up-",
+			"destination": "https://support.oya.sg/solution/articles/75000017098-what-is-the-minimum-age-requirement-for-signing-up-",
 			"type": 301
 		}, {
 			"source": "/location-required",
-			"destination": "https://redotter.freshdesk.com/solution/articles/75000017100-why-does-my-location-need-to-accessed-during-registration-",
+			"destination": "https://support.oya.sg/solution/articles/75000017100-why-does-my-location-need-to-accessed-during-registration-",
 			"type": 301
 		}, {
 			"source": "/about-membership",
-			"destination": "https://redotter.freshdesk.com/solution/articles/75000017139-why-become-an-oya-member-",
+			"destination": "https://support.oya.sg/solution/articles/75000017139-why-become-an-oya-member-",
 			"type": 301
 		}, {
 			"source": "/current-pricing",
-			"destination": "https://redotter.freshdesk.com/solution/articles/75000017142-what-are-the-price-plans-",
+			"destination": "https://support.oya.sg/solution/articles/75000017142-what-are-the-price-plans-",
 			"type": 301
 		}]
 	}
