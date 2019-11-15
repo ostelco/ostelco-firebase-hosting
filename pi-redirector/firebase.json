@@ -16,7 +16,7 @@
 			"type": 301
 		}, {
 			"source": "/esim-instructions-video",
-			"destination": "https://firebasestorage.googleapis.com/v0/b/pi-redirector.appspot.com/o/public%2FeSim%20OYA%20Instructional%20Video_v3.mp4?alt=media&token=4db04106-d100-44b6-9aba-501de46dd060",
+			"destination": "https://firebasestorage.googleapis.com/v0/b/pi-redirector.appspot.com/o/public%2FeSim%20OYA%20Instruction%20Video%20v4%20-%20Apple%20API.mp4?alt=media&token=1f84331e-6e6d-4766-a225-9af2cbda0bba",
 			"type": 301
 		}, {
 			"source": "/fully-digital",
