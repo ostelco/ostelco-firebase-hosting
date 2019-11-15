@@ -4,8 +4,16 @@ The project is hosted using the default firebase domain `https://pi-redirector.f
 
 Example link: `https://pi-redirector.firebaseapp.com/privacy-policy`
 
+# Dependencies
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [firebase-cli](https://firebase.google.com/docs/cli)
+
 # Deploy
-firebase deploy --only=hosting
+0. Install dependencies
+1. Clone the repository: `git clone https://github.com/ostelco/ostelco-firebase-hosting.git`
+2. Go to the correct folder: `cd pi-redirector`
+3. Login to your redotter firebase account: `firebase login`
+4. Deploy the changes to firebase: `firebase deploy --only=hosting` 
 
 # esim-instructions-video
 
